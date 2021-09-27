@@ -24,7 +24,8 @@ PART 4.3:
 ![ECE444LAB2P42_FIXED](https://user-images.githubusercontent.com/90578208/134833323-71dcfeed-1fbd-49c5-b05b-d1e6246d4863.png)
 
 PART 4.4:
-![ECE444LAB2PART43](https://user-images.githubusercontent.com/90578208/134833348-08cf1acc-1c62-46b5-9bb7-738e4793a98e.png)
+![ECE444LAB2PART44](https://user-images.githubusercontent.com/90578208/134833513-45352679-d28e-402f-bdd7-4d3abae92d81.png)
+
 
 
 
