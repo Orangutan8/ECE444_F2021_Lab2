@@ -18,7 +18,8 @@ PART 4.1:
 ![ECE444LAB1P41_FIXED](https://user-images.githubusercontent.com/90578208/134833251-6e5b3e1f-999b-42d9-85d5-e2f3d16ceab0.png)
 
 PART 4.2:
-![ECE444LAB2P41_FIXED_FIXED](https://user-images.githubusercontent.com/90578208/134833305-80d34a93-5d22-453b-9942-ae8fb14a3aa4.png)
+![ECE444LAB2P22_FIXED](https://user-images.githubusercontent.com/90578208/134833612-dca12155-1e41-4be1-9b08-a098e260bab0.png)
+
 
 PART 4.3:
 ![ECE444LAB2P42_FIXED](https://user-images.githubusercontent.com/90578208/134833323-71dcfeed-1fbd-49c5-b05b-d1e6246d4863.png)
